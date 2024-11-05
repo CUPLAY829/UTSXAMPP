@@ -8,7 +8,6 @@
 
 ## PROJECT WEB
 ## CODINGAN HOME
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -31,6 +30,7 @@
             color: #fff;
             text-decoration: none;
         }
+        
         /* Header */
         header {
             background-color: #333;
@@ -55,6 +55,7 @@
             color: #fff;
             font-weight: bold;
         }
+
         /* Hero Section */
         .hero {
             background-image: url("bg2.png"); no-repeat center center/cover;
@@ -87,6 +88,7 @@
         .hero a:hover {
             background-color: #45a049;
         }
+
         /* Services Section */
         .services {
             padding: 40px 20px;
@@ -123,6 +125,7 @@
             font-size: 16px;
             color: #666;
         }
+
         /* Footer */
         footer {
             background-color: #333;
