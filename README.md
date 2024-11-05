@@ -15,17 +15,13 @@
 <img src="ssweb/about.png">
 
 
-### Hasil Program about
+### Hasil Program contact
 <img src="ssweb/contact.png">
 
 
-### Hasil Program about
+### Hasil Program form
 <img src="ssweb/form.png">
 
 
-### Hasil Program about
-<img src="ssweb/about.png">
-
-
-### Hasil Program about
+### Hasil Program datatables
 <img src="ssweb/datatables.png">
